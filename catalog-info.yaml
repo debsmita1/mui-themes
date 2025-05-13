@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: mui-themes
+  annotations:
+    github.com/project-slug: debsmita1/mui-themes
+spec:
+  type: other
+  lifecycle: unknown
+  owner: user:default/debsmita1
